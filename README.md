@@ -1,0 +1,2 @@
+openshift-cartridge-strongloop1
+===============================
